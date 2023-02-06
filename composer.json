@@ -27,5 +27,11 @@
     "psr-4": {
       "IFlytek\\Xfyun\\Speech\\Tests\\": "tests"
     }
+  },
+  "repositories": {
+      "iflytekop/xfyun-core": {
+          "type": "git",
+          "url": "https://github.com/i255979/websdk-php-core.git"
+      }
   }
 }
